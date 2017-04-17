@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D1042BB9B500AB8DA004D29A74DE8486616CC3B4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D1042BB9B500AB8DA004D29A74DE8486616CC3B4" : 9223372036854775807,
+    "CA128DDC0772E71C3D59BFE5791EF86198947A33" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2DA46E76-7657-42DE-8A34-A247FE34C267",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D1042BB9B500AB8DA004D29A74DE8486616CC3B4" : "TimesTablesApp\/",
+    "CA128DDC0772E71C3D59BFE5791EF86198947A33" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TimesTableApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TimesTableApp\/TimesTableApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:gidpfeffer\/EggTimerApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CA128DDC0772E71C3D59BFE5791EF86198947A33"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:gidpfeffer\/TimesTablesApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D1042BB9B500AB8DA004D29A74DE8486616CC3B4"
+    }
+  ]
+}
